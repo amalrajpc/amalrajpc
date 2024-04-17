@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![GITHUB](https://github.com/amalrajpc/amalrajpc/assets/102909507/4e1382f0-e56e-4a9a-bd9b-6d4b6a13c751)
+![PC's GITHUB Banner](https://github.com/amalrajpc/amalrajpc/assets/102909507/4e1382f0-e56e-4a9a-bd9b-6d4b6a13c751)
 
 
 <!--
