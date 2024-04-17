@@ -2,6 +2,7 @@
 
 <!--
 **amalrajpc/amalrajpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GITHUB](https://github.com/amalrajpc/amalrajpc/assets/102909507/4e1382f0-e56e-4a9a-bd9b-6d4b6a13c751)
 
 Here are some ideas to get you started:
 
