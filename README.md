@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![PC's Github Banner](https://github.com/amalrajpc/amalrajpc/assets/102909507/846f3298-349e-4913-87e1-accfb756cdd8)
+![PC's Github1 Banner](https://github.com/amalrajpc/amalrajpc/assets/102909507/8fc8acb9-bbc9-446f-8045-6da85ae57791)
+
 
 
 
